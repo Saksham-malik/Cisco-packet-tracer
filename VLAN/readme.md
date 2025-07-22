@@ -1,4 +1,4 @@
-# GVLan Configuration
+# VLan Configuration
 
 This repository contains configuration files and documentation for setting up a VLAN-segmented network using standard Layer 3 addressing. Each VLAN represents a different department in the organization.
 
